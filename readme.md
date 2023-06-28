@@ -12,4 +12,8 @@
 <h2>Punto 4: </h2>
 <h2>Punto 5, 6 y 7: </h2>
 
+<h3>5- Base de Datos</h3>
+<img src="./public/images/punto5.PNG" alt="mysql">
+
+
 
