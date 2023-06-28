@@ -6,6 +6,7 @@
     <title>Punto 5-6-7</title>
 </head>
 <body>
-    
+    <h1>Proyecto base de datos</h1>
+    <?php include "./service/connection.php" ?>
 </body>
 </html>

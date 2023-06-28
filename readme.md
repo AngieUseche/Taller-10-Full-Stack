@@ -15,5 +15,9 @@
 <h3>5- Base de Datos</h3>
 <img src="./public/images/punto5.PNG" alt="mysql">
 
+<h3>6- Conexion Base de Datos</h3>
+<img src="./public/images/punto6.PNG" alt="conexion">
+
+
 
 
