@@ -18,6 +18,9 @@
 <h3>6- Conexion Base de Datos</h3>
 <img src="./public/images/punto6.PNG" alt="conexion">
 
+<h3>7- Base de Datos en pantalla</h3>
+<img src="./public/images/punto7.PNG" alt="datos">
+
 
 
 
