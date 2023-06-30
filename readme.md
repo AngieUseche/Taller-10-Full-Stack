@@ -8,7 +8,10 @@
 
 <h2>Punto 1: Operación de 2 números</h2>
 <img src="./public/images/punto1.PNG" alt="operacion">
-<h2>Punto 2: </h2>
+
+<h2>Punto 2: Mayor de edad </h2>
+<img src="./public/images/punto2.PNG" alt="edad">
+
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>
 <h2>Punto 5, 6 y 7: </h2>
