@@ -12,7 +12,10 @@
 <h2>Punto 2: Mayor de edad </h2>
 <img src="./public/images/punto2.PNG" alt="edad">
 
-<h2>Punto 3: </h2>
+<h2>Punto 3: Datos de Usuario en otra página</h2>
+<img src="./public/images/punto3.PNG" alt="Registro">
+<img src="./public/images/punto3_1.PNG" alt="Datos">
+
 <h2>Punto 4: </h2>
 <h2>Punto 5, 6 y 7: </h2>
 
