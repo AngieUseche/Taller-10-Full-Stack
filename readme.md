@@ -6,7 +6,8 @@
 <b><p>Curso: Full Stack Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p></b>
 
-<h2>Punto 1: </h2>
+<h2>Punto 1: Operación de 2 números</h2>
+<img src="./public/images/punto1.PNG" alt="operacion">
 <h2>Punto 2: </h2>
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>
