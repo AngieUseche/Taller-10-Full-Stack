@@ -16,7 +16,9 @@
 <img src="./public/images/punto3.PNG" alt="Registro">
 <img src="./public/images/punto3_1.PNG" alt="Datos">
 
-<h2>Punto 4: </h2>
+<h2>Punto 4: Edad por Fecha</h2>
+<img src="./public/images/punto4.PNG" alt="fecha">
+
 <h2>Punto 5, 6 y 7: </h2>
 
 <h3>5- Base de Datos</h3>
