@@ -8,7 +8,7 @@ $birthDate = new DateTime ($_POST["birth_date"]);
 $today = new DateTime ();
 $newDate = $birthDate->diff($today);
 echo "Edad en Días: " . $newDate->days ;
-$yearsAge = $newDate->days / 365;
+$yearsAge = $newDate->days / 365.25; //El 365.25 completa un dia del año bisiesto cada 4 años. 
 echo "<br>";
 echo "Edad en Años: " . round($yearsAge, 2);
 
